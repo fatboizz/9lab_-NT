@@ -1,6 +1,19 @@
 # Lab 1: I Am Rich
 
-Ứng dụng Flutter cơ bản hiển thị hình ảnh và văn bản "I Am Rich".
+Ứng dụng Flutter cơ bản hiển thị một hình ảnh và văn bản "I Am Rich" trên màn hình dành cho người mới học, giúp làm quen với quy trình phát triển ứng dụng di động.
+
+## Nội dung tìm hiểu
+
+- Cách sử dụng Flutter SDK để xây dựng ứng dụng
+- Tích hợp Material Design và Cupertino Icons
+- Quản lý tài nguyên (hình ảnh, fonts) trong ứng dụng Flutter
+- Cấu trúc file và thiết lập dự án Flutter qua pubspec.yaml
+
+## Chức năng thực hiện
+
+- Hiển thị giao diện đơn giản với hình ảnh và biểu tượng diamond
+- Sử dụng tài nguyên từ thư mục images/ để minh họa
+- Tích hợp các thành phần cơ bản của Flutter như giao diện và widget
 
 ## Chạy ứng dụng
 
@@ -11,7 +24,5 @@ flutter run
 
 ## Tài nguyên
 
-- Thêm hình ảnh kim cương vào thư mục `images/` với tên `diamond.png`
-- Kích thước khuyến nghị: 200x200px hoặc lớn hơn để hiển thị rõ nét
-- Sau khi thêm hình ảnh, chạy `flutter pub get` để cập nhật assets
+Thêm hình ảnh kim cương vào thư mục `images/` với tên `diamond.png`
 
